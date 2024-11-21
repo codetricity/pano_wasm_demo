@@ -1,6 +1,6 @@
 {
-    "name": "wp",
-    "short_name": "wp",
+    "name": "pano_wasm_demo",
+    "short_name": "pano_wasm_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
